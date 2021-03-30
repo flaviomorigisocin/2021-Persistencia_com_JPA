@@ -1,0 +1,22 @@
+INDEX VERSION 1.131+D:\WorkspaceCurso\2021-Persistencia_com_JPA_Introducao_ ao_Hibernate\.metadata\.plugins\org.eclipse.jdt.core
+1751420095.index
+137082761.index
+3552716618.index
+469686360.index
+4242729258.index
+3218029340.index
+2515432072.index
+3965870243.index
+1192989086.index
+86747052.index
+387218548.index
+1868758281.index
+1452818332.index
+1067867299.index
+546075921.index
+1224854318.index
+713351392.index
+1112624294.index
+1508887416.index
+2619797177.index
+1292772507.index
